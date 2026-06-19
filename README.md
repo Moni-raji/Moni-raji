@@ -19,14 +19,7 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/monisri-raji/)
-
-[LeetCode](https://leetcode.com/u/MonisriR/)
-
-[GitHub](https://github.com/Moni-raji)
-
-[SkillRack](https://www.skillrack.com/faces/resume.xhtml?id=439227&key=1d49459328e0df9b3f5da6b74ba1d3bde5867e52)
-
+[LinkedIn](https://www.linkedin.com/in/monisri-raji/) [LeetCode](https://leetcode.com/u/MonisriR/) [GitHub](https://github.com/Moni-raji) [SkillRack](https://www.skillrack.com/faces/resume.xhtml?id=439227&key=1d49459328e0df9b3f5da6b74ba1d3bde5867e52)
 Email:
 monisriraji19@gmail.com
 
@@ -68,7 +61,7 @@ monisriraji19@gmail.com
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_Moni-raji&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Moni-raji&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Moni-raji)
 
