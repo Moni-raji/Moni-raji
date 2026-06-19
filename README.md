@@ -20,44 +20,53 @@
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/monisri-raji/) [LeetCode](https://leetcode.com/u/MonisriR/) [GitHub](https://github.com/Moni-raji) [SkillRack](https://www.skillrack.com/faces/resume.xhtml?id=439227&key=1d49459328e0df9b3f5da6b74ba1d3bde5867e52)
+
 Email:
 monisriraji19@gmail.com
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## Languages
 
-- Java
-- C++
-- SQL
+<p>
 
-### Web Development
+<img src="https://skillicons.dev/icons?i=java"/>
 
-- HTML
-- CSS
-- JavaScript
-- React
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-- ASP.NET
-- C#
+</p>
 
-### Database
+## 🌐 Web Development
 
-- SQL Server
+<p>
 
-### Cloud
+<img src="https://skillicons.dev/icons?i=html"/>
 
-- AWS
-- GCP
-- Oracle Cloud
+<img src="https://skillicons.dev/icons?i=css"/>
 
-### Tools
+<img src="https://skillicons.dev/icons?i=js"/>
 
-- Git
-- GitHub
-- VS Code
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+## ☁ Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=gcp"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ## 📊 GitHub Stats
 
